@@ -722,7 +722,7 @@ footer p{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap: 20px;
+        /* gap: 20px; */
     }
     
     .fa-sun{
