@@ -605,7 +605,7 @@ footer p{
         grid-column: span 3;
     }
     nav ul li a{
-        font-size: 18px;
+        font-size: 1.2vw;
     }
 
     h1{
@@ -693,7 +693,6 @@ footer p{
         display: flex;
         height: 20vw;
         width: 55%;
-        /* padding-left: 250px; */
     }
 
     .contact-container{
@@ -714,9 +713,9 @@ footer p{
         position: fixed;
         background-color: #adadb4;
         width: 5vw;
-        height: 90px;
+        height: 8vw;
         right: 0;
-        top: 70%;
+        top: 60%;
         z-index: 1;
         display: flex;
         flex-direction: column;
@@ -727,12 +726,12 @@ footer p{
     
     .fa-sun{
         color: #798AAE;
-        font-size: 1.5rem;
+        font-size: 1.5vw;
     }
     
     .fa-moon{
         color: #ffffff;
-        font-size: 1.5rem;
+        font-size: 1.5vw;
     }
     
     footer{
