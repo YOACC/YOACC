@@ -693,7 +693,7 @@ footer p{
         display: flex;
         height: 20vw;
         width: 55%;
-        padding-left: 250px;
+        /* padding-left: 250px; */
     }
 
     .contact-container{
