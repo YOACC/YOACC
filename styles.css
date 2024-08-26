@@ -714,7 +714,7 @@ footer p{
         position: fixed;
         background-color: #adadb4;
         width: 5vw;
-        height: 70px;
+        height: 100px;
         right: 0;
         top: 70%;
         z-index: 1;
@@ -726,7 +726,7 @@ footer p{
     }
     
     .fa-sun{
-        color: green;
+        color: #798AAE;
         font-size: 2rem;
     }
     
