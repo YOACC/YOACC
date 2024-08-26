@@ -714,7 +714,7 @@ footer p{
         position: fixed;
         background-color: #adadb4;
         width: 5vw;
-        height: 100px;
+        padding: 20px;
         right: 0;
         top: 70%;
         z-index: 1;
@@ -722,17 +722,17 @@ footer p{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        gap: 20px;
+        /* gap: 20px; */
     }
     
     .fa-sun{
         color: #798AAE;
-        font-size: 2rem;
+        font-size: 2vw;
     }
     
     .fa-moon{
         color: #ffffff;
-        font-size: 2rem;
+        font-size: 2vw;
     }
     
     footer{
